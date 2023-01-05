@@ -2,9 +2,6 @@
 
 # **********Step 1 Create Azure Exempt Policy**********
 
-# The following information are needed to run this program
-# subscription_id = "e2af6d23-4a34-4ffc-a6b5-24b197225321"
-# user_object_id = "f7bb01c4-2b2b-4b76-b067-adc102c381de"
 
 
 import azure.mgmt.subscription
